@@ -36,11 +36,12 @@ Example:
 	console.log(transposed); 
  
 // Output: 
-// [
-//   [1, 4],
-//   [2, 5],
-//   [3, 6]
-// ]
+
+	// [
+	//   [1, 4],
+	//   [2, 5],
+	//   [3, 6]
+	// ]
 
 Time Complexity:
 
